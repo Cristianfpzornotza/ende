@@ -7,6 +7,7 @@ public class mesuak {
 System.out.println("holasvs");
 System.out.println("reghd");
 System.out.println("traehyj");
+System.out.println("srtjhyj");
 	}
 
 }
